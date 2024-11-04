@@ -1,3 +1,7 @@
+## robs898 edit
+
+- Dont show the inventory count on the minimap tooltip (or any other tooltip cursor anchored)
+
 # ShaguInventory
 
 Started as a fork of an abandoned project called "InventoryCounter". It shows the quantity of items in your inventory over all charactes on the same account. The XML File was removed and completely replaced by Lua Code. But basically there are only optical changes done like dual pane tooltip infos. Sadly the original code can't be accessed anymore as the forum where it has been hosted changed to another software.
